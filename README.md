@@ -1,9 +1,8 @@
 # Modélisation du risque de crédit — Home Credit Default Risk
 
-> Mémoire de Master — RNCP Niveau 7, Expert en Finance de Marché
-> Spécialité : Big Data et Data Science en Finance — ESG Finance, 2024-2025
+> Spécialité : Big Data et Data Science 
 
-**Auteurs :** Emmanuel KOURAOGO & Brahim KHALDI
+**Auteurs :** Emmanuel KOURAOGO
 **Directeur :** Baptiste de La ROBERTIE, Docteur en informatique
 
 ---
@@ -107,6 +106,5 @@ jupyter notebook Code_Memoire.ipynb
 | Nom | Profil |
 |-----|--------|
 | Emmanuel KOURAOGO | [GitHub](https://github.com/EKOURAOGO) |
-| Brahim KHALDI | — |
 
 ESG Finance — Titre RNCP Niveau 7, Expert en Finance de Marché, 2024-2025
