@@ -3,6 +3,7 @@
 > Spécialité : Big Data et Data Science 
 
 **Auteurs :** Emmanuel KOURAOGO
+
 **Directeur :** Baptiste de La ROBERTIE, Docteur en informatique
 
 ---
