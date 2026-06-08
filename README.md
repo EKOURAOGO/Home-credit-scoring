@@ -102,10 +102,10 @@ jupyter notebook Code_Memoire.ipynb
 
 ---
 
-## Auteurs
+## Auteur
 
 | Nom | Profil |
 |-----|--------|
 | Emmanuel KOURAOGO | [GitHub](https://github.com/EKOURAOGO) |
 
-ESG Finance — Titre RNCP Niveau 7, Expert en Finance de Marché, 2024-2025
+
