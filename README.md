@@ -1,4 +1,4 @@
-# Modélisation du risque de crédit — Home Credit Default Risk
+# Modélisation du risque de crédit - Home Credit Default Risk
 
 > Spécialité : Big Data et Data Science 
 
@@ -35,7 +35,7 @@
 - **307 511 observations** d'entraînement
 - **7 tables relationnelles** : `application_train`, `bureau`, `bureau_balance`, `previous_application`, `POS_CASH_balance`, `installments_payments`, `credit_card_balance`
 - Variable cible binaire `TARGET` : défaut (1) / non-défaut (0)
-- Déséquilibre marqué : **8% de défauts** — pondération `scale_pos_weight ≈ 11.39`
+- Déséquilibre marqué : **8% de défauts** - pondération `scale_pos_weight ≈ 11.39`
 
 ---
 
